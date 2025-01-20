@@ -100,7 +100,6 @@ while running:
     # Оновлення екрану
     pygame.display.flip()
     clock.tick(fps)
-
 pygame.quit()
 
 
