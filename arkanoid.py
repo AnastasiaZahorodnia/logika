@@ -9,7 +9,6 @@ clock = pygame.time.Clock()
 dx = 3
 dy = 3
 
-
 platform_x = 200
 platform_y = 330
 move_right = False
