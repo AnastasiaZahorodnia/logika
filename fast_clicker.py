@@ -2,7 +2,6 @@ import pygame
 import time
 pygame.init()
 
-
 back = (200, 255, 255) #колір фону (background)
 mw = pygame.display.set_mode((500, 500)) #вікно програми (main window)
 mw.fill(back)
